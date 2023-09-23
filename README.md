@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a Computer Engineer with over 5 years of experience in the fields of Software Engineering/Development of scalable solutions. Passionate about software development and learning new technologies. 
+- I'm a Computer Engineer with over 10 years of experience in the fields of Software Engineering/Development of scalable solutions. Passionate about software development and learning new technologies. 
 
 [LinkedIn](https://www.linkedin.com/in/wrsanches/)
 
